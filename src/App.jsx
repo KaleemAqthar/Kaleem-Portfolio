@@ -12,7 +12,6 @@ import Skills from "./sections/Skills";
 import Projects from "./sections/Projects";
 import Contact from "./sections/Contact";
 import Experience from "./sections/Experience"
-
 import ContactForm from "./pages/ContactForm";
 import BookCall from "./pages/BookCall";
 
